@@ -138,6 +138,7 @@ Udacity
 > The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
+
 ##### [Build a Traffic Sign Recognition Classifier](https://nabeelmukhtar.github.io/CarND-Traffic-Sign-Classifier-Project/)
 > The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)
@@ -146,6 +147,7 @@ Udacity
 * Use the model to make predictions on new images
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
+
 ##### [Behavioral Cloning](https://nabeelmukhtar.github.io/CarND-Behavioral-Cloning-P3/)
 > The goals / steps of this project are the following:
 * Use the simulator to collect data of good driving behavior
@@ -153,6 +155,7 @@ Udacity
 * Train and validate the model with a training and validation set
 * Test that the model successfully drives around track one without leaving the road
 * Summarize the results with a written report
+
 ##### [Advanced Lane Finding](https://nabeelmukhtar.github.io/CarND-Advanced-Lane-Lines/)
 > The goals / steps of this project are the following:
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
@@ -163,6 +166,7 @@ Udacity
 * Determine the curvature of the lane and vehicle position with respect to center.
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+
 ##### [Vehicle Detection](https://nabeelmukhtar.github.io/CarND-Vehicle-Detection/)
 > The goals / steps of this project are the following:
 * Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
