@@ -1,8 +1,5 @@
 # Nabeel Mukhtar Siddiqui
 
-E-mail nabeelmukhtar@gmail.com
-https://www.linkedin.com/in/nabeelmukhtar
-
 ## Summary
 
 * 12+ years of experience in architecture and development of large scale enterprise applications.
