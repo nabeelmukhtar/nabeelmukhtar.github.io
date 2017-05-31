@@ -128,11 +128,11 @@ Worked as a Software Architect in the elaboration phase of the project and later
 ## Education
 
 ### B.E. Computer Systems Engineering 
-N.E.D. University of Engineering and Technology, Karachi
+###### N.E.D. University of Engineering and Technology, Karachi
 Passed with 83% marks.
 
 ### Self-Driving Car Engineering Nanodegree
-Udacity
+###### Udacity
 #### Projects
 ##### [Finding Lane Lines on the Road](https://nabeelmukhtar.github.io/CarND-LaneLines-P1/)
 > The goals / steps of this project are the following:
@@ -176,8 +176,11 @@ Udacity
 * Run your pipeline on a video stream (start with the test_video.mp4 and later implement on full project_video.mp4) and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
 * Estimate a bounding box for vehicles detected.
 
+### Certificate of Specialization in Data Mining
+###### University of Illinois at Urbana-Champaign through Coursera
+
 ### XSeries Certificate, Big Data
-University of California, Berkeley through edX
+###### University of California, Berkeley through edX
 
 ### Independent Coursework
 * Machine Learning - Andrew Ng (Stanford University)
